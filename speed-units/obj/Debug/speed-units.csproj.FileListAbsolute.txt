@@ -1,0 +1,6 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\speed-units\bin\Debug\speed-units.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\speed-units\bin\Debug\speed-units.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\speed-units\bin\Debug\speed-units.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\speed-units\obj\Debug\speed-units.csprojResolveAssemblyReference.cache
+F:\SoftUni2\Data-Types-and-Variables-Exercises\speed-units\obj\Debug\speed-units.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\speed-units\obj\Debug\speed-units.pdb

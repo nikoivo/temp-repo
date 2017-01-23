@@ -1,0 +1,6 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\hexa-to-dec\bin\Debug\hexa-to-dec.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\hexa-to-dec\bin\Debug\hexa-to-dec.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\hexa-to-dec\bin\Debug\hexa-to-dec.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\hexa-to-dec\obj\Debug\hexa-to-dec.csprojResolveAssemblyReference.cache
+F:\SoftUni2\Data-Types-and-Variables-Exercises\hexa-to-dec\obj\Debug\hexa-to-dec.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\hexa-to-dec\obj\Debug\hexa-to-dec.pdb

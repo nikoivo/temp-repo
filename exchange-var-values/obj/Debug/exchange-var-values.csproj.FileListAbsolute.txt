@@ -1,0 +1,5 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\exchange-var-values\bin\Debug\exchange-var-values.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\exchange-var-values\bin\Debug\exchange-var-values.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\exchange-var-values\bin\Debug\exchange-var-values.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\exchange-var-values\obj\Debug\exchange-var-values.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\exchange-var-values\obj\Debug\exchange-var-values.pdb

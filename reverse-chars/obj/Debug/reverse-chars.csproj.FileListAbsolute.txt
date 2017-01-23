@@ -1,0 +1,5 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\reverse-chars\bin\Debug\reverse-chars.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\reverse-chars\bin\Debug\reverse-chars.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\reverse-chars\bin\Debug\reverse-chars.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\reverse-chars\obj\Debug\reverse-chars.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\reverse-chars\obj\Debug\reverse-chars.pdb

@@ -1,0 +1,5 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\rectangle-properties\bin\Debug\rectangle-properties.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\rectangle-properties\bin\Debug\rectangle-properties.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\rectangle-properties\bin\Debug\rectangle-properties.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\rectangle-properties\obj\Debug\rectangle-properties.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\rectangle-properties\obj\Debug\rectangle-properties.pdb

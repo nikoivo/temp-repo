@@ -1,0 +1,5 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\centuries-to-nanoseconds\bin\Debug\centuries-to-nanoseconds.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\centuries-to-nanoseconds\bin\Debug\centuries-to-nanoseconds.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\centuries-to-nanoseconds\bin\Debug\centuries-to-nanoseconds.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\centuries-to-nanoseconds\obj\Debug\centuries-to-nanoseconds.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\centuries-to-nanoseconds\obj\Debug\centuries-to-nanoseconds.pdb

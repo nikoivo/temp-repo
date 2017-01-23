@@ -1,0 +1,5 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\boolean-var\bin\Debug\boolean-var.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\boolean-var\bin\Debug\boolean-var.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\boolean-var\bin\Debug\boolean-var.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\boolean-var\obj\Debug\boolean-var.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\boolean-var\obj\Debug\boolean-var.pdb

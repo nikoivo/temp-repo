@@ -1,0 +1,5 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\strings-and-objects\bin\Debug\strings-and-objects.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\strings-and-objects\bin\Debug\strings-and-objects.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\strings-and-objects\bin\Debug\strings-and-objects.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\strings-and-objects\obj\Debug\strings-and-objects.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\strings-and-objects\obj\Debug\strings-and-objects.pdb

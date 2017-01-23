@@ -1,0 +1,5 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice_floatingpoint\bin\Debug\practice_floatingpoint.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice_floatingpoint\bin\Debug\practice_floatingpoint.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice_floatingpoint\bin\Debug\practice_floatingpoint.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice_floatingpoint\obj\Debug\practice_floatingpoint.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice_floatingpoint\obj\Debug\practice_floatingpoint.pdb

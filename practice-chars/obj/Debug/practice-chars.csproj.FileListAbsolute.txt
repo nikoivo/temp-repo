@@ -1,0 +1,6 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-chars\bin\Debug\practice-chars.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-chars\bin\Debug\practice-chars.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-chars\bin\Debug\practice-chars.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-chars\obj\Debug\practice-chars.csprojResolveAssemblyReference.cache
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-chars\obj\Debug\practice-chars.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-chars\obj\Debug\practice-chars.pdb

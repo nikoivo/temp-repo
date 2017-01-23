@@ -1,0 +1,5 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\employee-data\bin\Debug\employee-data.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\employee-data\bin\Debug\employee-data.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\employee-data\bin\Debug\employee-data.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\employee-data\obj\Debug\employee-data.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\employee-data\obj\Debug\employee-data.pdb

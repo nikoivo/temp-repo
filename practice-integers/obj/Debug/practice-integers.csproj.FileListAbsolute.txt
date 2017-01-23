@@ -1,0 +1,6 @@
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-integers\bin\Debug\practice-integers.exe.config
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-integers\bin\Debug\practice-integers.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-integers\bin\Debug\practice-integers.pdb
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-integers\obj\Debug\practice-integers.csprojResolveAssemblyReference.cache
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-integers\obj\Debug\practice-integers.exe
+F:\SoftUni2\Data-Types-and-Variables-Exercises\practice-integers\obj\Debug\practice-integers.pdb
