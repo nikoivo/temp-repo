@@ -1,0 +1,6 @@
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\integer-to-hex-binary\bin\Debug\integer-to-hex-binary.exe.config
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\integer-to-hex-binary\bin\Debug\integer-to-hex-binary.exe
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\integer-to-hex-binary\bin\Debug\integer-to-hex-binary.pdb
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\integer-to-hex-binary\obj\Debug\integer-to-hex-binary.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\integer-to-hex-binary\obj\Debug\integer-to-hex-binary.exe
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\integer-to-hex-binary\obj\Debug\integer-to-hex-binary.pdb

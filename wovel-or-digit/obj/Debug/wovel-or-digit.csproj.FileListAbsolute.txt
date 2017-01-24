@@ -1,0 +1,6 @@
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\wovel-or-digit\bin\Debug\wovel-or-digit.exe.config
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\wovel-or-digit\bin\Debug\wovel-or-digit.exe
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\wovel-or-digit\bin\Debug\wovel-or-digit.pdb
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\wovel-or-digit\obj\Debug\wovel-or-digit.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\wovel-or-digit\obj\Debug\wovel-or-digit.exe
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\wovel-or-digit\obj\Debug\wovel-or-digit.pdb

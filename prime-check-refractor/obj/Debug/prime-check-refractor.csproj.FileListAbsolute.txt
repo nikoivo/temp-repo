@@ -1,0 +1,5 @@
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\prime-check-refractor\bin\Debug\prime-check-refractor.exe.config
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\prime-check-refractor\bin\Debug\prime-check-refractor.exe
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\prime-check-refractor\bin\Debug\prime-check-refractor.pdb
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\prime-check-refractor\obj\Debug\prime-check-refractor.exe
+C:\Temp\SoftUni2\Data Types and Variables - Exercises\prime-check-refractor\obj\Debug\prime-check-refractor.pdb
