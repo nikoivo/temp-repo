@@ -10,18 +10,18 @@ namespace speed_units
     {
         static void Main(string[] args)
         {
-            var meters = double.Parse(Console.ReadLine());
-            var hours = double.Parse(Console.ReadLine());
-            var minutes = double.Parse(Console.ReadLine());
-            var seconds = double.Parse(Console.ReadLine());
-            double totalSeconds = (hours * 60 * 60) + (minutes * 60) + seconds;
-            double totalHours = hours + (minutes/60) + (seconds/60)/60;
-            double kilometers = meters / 1000.0;
-            double miles = meters / 1609;
+            var meters = float.Parse(Console.ReadLine());
+            var hours = float.Parse(Console.ReadLine());
+            var minutes = float.Parse(Console.ReadLine());
+            var seconds = float.Parse(Console.ReadLine());
+            float totalSeconds = (hours * 60 * 60) + (minutes * 60) + seconds;
+            float totalHours = hours + (minutes + seconds/60)/60;
+            float kilometers = meters / 1000;
+            float miles = meters / 1609;
 
-            Console.WriteLine("{0:f6}",(meters/totalSeconds));
-            Console.WriteLine("{0:f6}", (kilometers / totalHours));
-            Console.WriteLine("{0:f6}", (miles / totalHours));
+            Console.WriteLine("{0}",(meters/totalSeconds));
+            Console.WriteLine("{0}", (kilometers / totalHours));
+            Console.WriteLine("{0}", (miles / totalHours));
         }
     }
 }
